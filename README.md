@@ -3,7 +3,7 @@ Using python to automate services on AWS
 
 Overview
 
-The idea of this project is to set up automation so when an EC2 is created it kicks off automation that takes information from server, processes and tags the EC2 with the name of who created. To do this I will be using the following AWS service.
+The idea of this project is to set up automation so when an EC2 is created it kicks off automation that takes information from server, processes and tags the EC2 with the name of who created. To do this I will be using the following AWS services.
 
 ![image](https://github.com/user-attachments/assets/78dbd0b4-e010-4848-b242-56d59223e4ee)
 ![image](https://github.com/user-attachments/assets/5228ddc4-a8a1-4639-9bab-83e51fdf5415)
